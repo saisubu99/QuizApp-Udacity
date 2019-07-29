@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">  How many states are there in india?</string>
+    <string name="ans11">19 States</string>
+    <string name="ans12">20 States</string>
+    <string name="ans13">29 States</string>
+    <string name="ans14">35 States</string>
+    <string name="question2">  How many Union Territories are there in india?</string>
+    <string name="ans21">8 Union Territories</string>
+    <string name="ans22">7 Union Territories</string>
+    <string name="ans23">6 Union Territories</string>
+    <string name="ans24">10 Union Territories</string>
+    <string name="question3">  National Motto of India?</string>
+    <string name="question4">  National Anthem of India?</string>
+    <string name="question5">  Is River Dolphin the National Aquatic Animal of India?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="submit">Submit answers</string>
+    <string name="retake">Retake the quiz</string>
+    <string name="Title"> INDIA GK QUIZ </string>
+    <string name="question6">Who were the past prime ministers in India?</string>
+    <string name="ans61">Jawahar Lal Nehru</string>
+    <string name="ans62">Smriti Irani</string>
+    <string name="ans63">Gulzarilal Nanda</string>
+    <string name="ans64">H.D.Deve</string>
+
+</resources>
